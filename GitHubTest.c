@@ -1,1 +1,1 @@
-GitHub Test!
+测试GitHub中文支持！
