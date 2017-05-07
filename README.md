@@ -17,10 +17,9 @@
 
 最多六级标题
 
-* GitHub: github.com/XinLiGitHub
-* 微博: weibo.com/u/3907146267
+* GitHub: https://github.com/XinLiGitHub
+* 微博: http://weibo.com/3907146267
 * Email: XinLiYX@Gmail.com
 
-* [GitHub](github.com/XinLiGitHub)
-* [微博](weibo.com/u/3907146267)
-* [Email](XinLiYX@Gmail.com)
+* [GitHub](https://github.com/XinLiGitHub)
+* [微博](http://weibo.com/3907146267)
