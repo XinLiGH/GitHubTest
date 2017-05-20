@@ -23,3 +23,5 @@
 
 * [GitHub](https://github.com/XinLiGitHub)
 * [微博](http://weibo.com/3907146267)
+
+![](https://github.com/XinLiGitHub/GitHubTest/raw/master/weibo.png)
