@@ -25,3 +25,17 @@
 * [微博](http://weibo.com/3907146267)
 
 ![](https://github.com/XinLiGitHub/GitHubTest/raw/master/weibo.png)
+
+/**
+  * @brief  Start measure time.
+  * @param  None.
+  * @return None.
+  */
+__STATIC_INLINE void MeasureTimeStart(void);
+
+/**
+  * @brief  Stop measure time.
+  * @param  [in] clock: System clock frequency(unit: MHz).
+  * @return Program run time(unit: us).
+  */
+__STATIC_INLINE double MeasureTimeStop(uint32_t clock);
